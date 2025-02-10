@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![snake gif](https://github.com/lazy-llama69/lazy-llama69/blob/output/github-snake-dark.svg)
 <!--
 **lazy-llama69/lazy-llama69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
